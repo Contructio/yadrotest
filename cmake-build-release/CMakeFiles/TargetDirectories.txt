@@ -1,0 +1,3 @@
+C:/Users/ninji/CLionProjects/untitled/cmake-build-release/CMakeFiles/untitled.dir
+C:/Users/ninji/CLionProjects/untitled/cmake-build-release/CMakeFiles/edit_cache.dir
+C:/Users/ninji/CLionProjects/untitled/cmake-build-release/CMakeFiles/rebuild_cache.dir
